@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - dhieddine.barhoumi@gmail.com
+Dhieddine Barhoumi - dhieddine.barhoumi@gmail.com
 
 ## Acknowledgments
 
@@ -274,4 +274,4 @@ Your Name - dhieddine.barhoumi@gmail.com
 
 ## Disclaimer
 
-This is a production-quality MVP created for demonstration and job application purposes. While it implements comprehensive functionality following industry best practices, some aspects might require further customization for specific enterprise use cases.
+This is a production-quality MVP created for demonstration. While it implements comprehensive functionality following industry best practices, some aspects might require further customization for specific enterprise use cases.
